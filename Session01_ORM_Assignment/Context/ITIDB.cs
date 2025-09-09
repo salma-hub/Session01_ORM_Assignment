@@ -13,6 +13,7 @@ namespace Session01_ORM_Assignment.Context
         public ITIDB() : base()
         {
 
+
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
